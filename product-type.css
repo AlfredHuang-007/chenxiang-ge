@@ -1,0 +1,26 @@
+body {
+  font-family: "Songti SC", "STSong", "SimSun", serif;
+}
+
+.type-art {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 32px;
+  border: 1px solid rgba(255, 255, 255, .06);
+}
+.type-art > span {
+  font-size: clamp(8rem, 14vw, 13rem);
+  font-weight: 500;
+  line-height: .8;
+  color: rgba(240, 237, 228, .82);
+  text-shadow: 18px 18px 0 rgba(0, 0, 0, .18);
+}
+.type-art > small {
+  writing-mode: vertical-rl;
+  color: rgba(240, 237, 228, .55);
+  font: 600 .68rem/1.6 "Cormorant Garamond", serif;
+  letter-spacing: .24em;
+}
+.gold-card .type-art > span { color: #25190d; }
+.gold-card .type-art > small { color: #2e2114; }
