@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alfredhuang-007.github.io/chenxiang-ge/sitemap.xml
