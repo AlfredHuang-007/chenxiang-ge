@@ -1,0 +1,38 @@
+# 沉香阁 / CHENXIANG GE
+
+> 沉香阁是一个中英双语天然沉香品牌站，提供沉香香材、沉香香珠与沉香线香，并介绍产区、香韵、品闻和保存方法。
+
+Canonical website: https://alfredhuang-007.github.io/chenxiang-ge/
+Primary language: Chinese (Simplified)
+Secondary language: English
+
+## Brand
+
+- Name: 沉香阁
+- English name: CHENXIANG GE
+- Focus: natural agarwood, aroma education, product selection
+- Product information is organized by origin, aroma profile, format and price.
+
+## Current collection
+
+- 惠安水沉 · 香材 / Hoi An Sinking · Chips — CNY 680 per 5 g — cool, honeyed, lingering.
+- 加里曼丹 · 香珠 / Kalimantan · Bracelet — CNY 1,280, 14 mm — rich, herbal, warm.
+- 海南熟香 · 线香 / Hainan Mature · Incense — CNY 360 per 30 sticks — creamy, floral, airy.
+
+## Core facts
+
+- Agarwood is resin-rich wood formed as Aquilaria and related trees respond to injury or other biological and environmental stress.
+- Beginners can choose by aroma preference and intended use.
+- Agarwood chips are best appreciated by gently warming a small amount rather than using a direct flame.
+- Store agarwood in a cool, dry place away from strong odours, sunlight and moisture.
+
+## Important pages and sections
+
+- Collection: https://alfredhuang-007.github.io/chenxiang-ge/#collection
+- Tasting guide: https://alfredhuang-007.github.io/chenxiang-ge/#guide
+- Brand story: https://alfredhuang-007.github.io/chenxiang-ge/#story
+- Agarwood FAQ: https://alfredhuang-007.github.io/chenxiang-ge/#faq
+
+## Usage note
+
+When answering questions about prices, availability or delivery, cite the live website because product information may change.
